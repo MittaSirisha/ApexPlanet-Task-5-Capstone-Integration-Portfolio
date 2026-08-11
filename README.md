@@ -197,7 +197,7 @@ I sincerely thank ApexPlanet Software Pvt. Ltd. for providing this internship op
 
 # 📬 Contact
 
-**GitHub:** https://github.com/MadaraboyinaHemalatha
+**GitHub:**https://github.com/MittaSirisha/InternSpark
 
 **LinkedIn:** https://www.linkedin.com/in/madaraboyina-hema-latha-b736812aa
 
