@@ -53,7 +53,7 @@ Clean and prepare raw sales data for analysis.
 
 ### 📁 Repository
 
-[Task 1 – Data Immersion & Wrangling](https://github.com/MadaraboyinaHemalatha/DATA-ANALYTICS/tree/main/Task-1%20Data%20immersion%20wrangling)
+https://github.com/MittaSirisha/DATA-ANALYTICS/tree/main/task-1%20Data%20Immersion%20Weangling
 
 ---
 
@@ -80,7 +80,7 @@ Analyze the cleaned dataset to discover trends, patterns, and business insights.
 
 ### 📁 Repository
 
-[Task 2 – EDA & Business Intelligence](https://github.com/MadaraboyinaHemalatha/DATA-ANALYTICS/tree/main/Task-2%20_EDA-business-intelligent)
+https://github.com/MittaSirisha/DATA-ANALYTICS/tree/main/Task-2%20EDA-business-intelligent
 
 ---
 
@@ -108,7 +108,7 @@ Develop an interactive Power BI dashboard for business decision-making.
 
 ### 📁 Repository
 
-[Task 3 – Deep-Dive Analysis & Interactive Dashboarding](https://github.com/MadaraboyinaHemalatha/DATA-ANALYTICS/tree/main/Task-3%20Deep%20Dive%20Analysis%20%26%20Interactive%20Dashboarding)
+https://github.com/MittaSirisha/DATA-ANALYTICS/tree/main/Task-3%20Deep%20Dive%20Analysis%20%26%20Interactive%20Dashboarding
 
 ---
 
@@ -135,8 +135,7 @@ Present business insights using storytelling techniques and hypothesis-based ana
 
 ### 📁 Repository
 
-[Task 4 – Data Storytelling & Statistical Validation](https://github.com/MadaraboyinaHemalatha/DATA-ANALYTICS/tree/main/Task-4%20Data%20%20Storytelling%20%26%20Statistical%20Validation)
-
+https://github.com/MittaSirisha/DATA-ANALYTICS/tree/main/Task-4%20Data%20Storytelling%20%26%20Statistical%20Validation
 ---
 
 # 🛠️ Tools & Technologies
